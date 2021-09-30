@@ -1,0 +1,75 @@
+*{
+   padding: 0%;
+   margin: 0%;
+   box-sizing: border-box;
+} 
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+ }
+ 
+
+ .retro{
+    background-color: orange;
+    height: 500px;
+    width: 700px;
+ }
+
+ .mark{
+    background-color: blue;
+    height: 500px;
+    width: 700px;
+   
+ }
+ 
+.jah{
+   background-color: darkcyan;
+   height: 500px;
+   width: 700px;
+  
+ 
+}
+.aqua{
+  background-color: lightgray;
+  color: orange;
+   border-radius: 12px;
+   padding: 8px;
+   margin: 15px;
+}
+
+.aqua2{
+   background-color: lightgray;
+   color: blue;
+   border-radius:  12px; ;
+   padding: 8px;
+   margin: 15px;
+}
+
+.aqua3{
+   background-color: lightgray;
+   color: darkcyan;
+   border-radius: 12px;
+   padding: 8px;
+   margin: 15px;
+}
+
+ 
+body{
+      background-color:lightgray;
+      font-size: 15px;
+      font-family: Lexend Deca; font-weight: 400;
+      font-family: Big Shoulders Display; font-weight: 700;
+   }
+h3{
+   color: lightgray;
+   margin: 15px;
+}
+p{
+   color: white;
+   margin: 15px;
+}
